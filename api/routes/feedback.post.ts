@@ -5,7 +5,7 @@ import {
 } from '../../docs/.vitepress/types/Feedback'
 
 export default defineEventHandler(async (event) => {
-  const { message, page, type } = await readValidatedBody(
+  const { message, page, type, heading } = await readValidatedBody(
     event,
     FeedbackSchema.parseAsync
   )
@@ -22,7 +22,8 @@ export default defineEventHandler(async (event) => {
   // }
 
   let description = `${message}\n\n`
-  if (page) description += `**Page:** \`${page}\``
+  description += `**Page:** \`${page}\``
+  if (heading) description += `**Heading:** \`${heading}\``
 
   await fetcher()
     .post(env.WEBHOOK_URL, {
