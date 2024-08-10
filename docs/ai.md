@@ -11,6 +11,7 @@
 * 🌐 **[RevAPIs](https://rentry.co/revvapis)** - Freemium AI Proxy APIs
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
 * ⭐ **[TypeSet](https://typeset.io/)** - Research Paper Chatbot
+* ⭐ **[AIToolsToKnow](https://aitoolstoknow.com/)** - Search AI Tools
 * [GPT Crawler](https://github.com/BuilderIO/gpt-crawler) - Turn Websites into Chatbots
 * [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [ChatGPT Apps](https://github.com/adamlui/chatgpt-apps), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) or [Merlin](https://www.getmerlin.in/) / [Unlimited](https://rentry.co/MerlinAI-Unlim) - Extensions
 * [Humata](https://www.humata.ai/), [Sharly](https://app.sharly.ai/), [Docalysis](https://docalysis.com/), [DAnswer](https://docs.danswer.dev/), [DocsGPT](https://docsgpt.arc53.com/) or [ChatDOC](https://chatdoc.com/) - Turn Documents into Chatbots
