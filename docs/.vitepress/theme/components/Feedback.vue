@@ -6,9 +6,7 @@ import {
   Dialog,
   DialogPanel,
   DialogTitle,
-  DialogDescription,
   Listbox,
-  ListboxLabel,
   ListboxButton,
   ListboxOptions,
   ListboxOption
@@ -39,6 +37,7 @@ const options = [
   { label: '🐞 Bug', value: 'bug' },
   { label: '📂 Other', value: 'other' }
 ]
+
 const selectedOption = ref(options[0])
 
 async function handleSubmit() {
