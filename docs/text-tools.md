@@ -559,6 +559,7 @@
 * ⭐ **[FSymbols](https://fsymbols.com/generators/)**
 * ⭐ **[Fancy Text](https://fancy-text.net/)**
 * [Cool Fonts Online](https://coolfont.org/)
+* [Text To handwriting](https://text-to-handwriting.com/)
 * [FontMaker.io](https://fontmaker.io/)
 * [Aesthetic Font Generator](https://www.tesms.net/)
 * [BoldTextGenerator](https://boldtextgenerator.org/)
